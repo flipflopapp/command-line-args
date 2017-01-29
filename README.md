@@ -1,3 +1,10 @@
+This fork was created to make a minor change in original library to allow unknown options by ignoring them. Now it has been added in the original repository under the reported issue (https://github.com/75lb/command-line-args/issues/38#issuecomment-275878463).
+
+This repo is kept for records until I make the required changes in code using this personal fork.
+
+
+
+
 [![view on npm](http://img.shields.io/npm/v/command-line-args.svg)](https://www.npmjs.org/package/command-line-args)
 [![npm module downloads](http://img.shields.io/npm/dt/command-line-args.svg)](https://www.npmjs.org/package/command-line-args)
 [![Build Status](https://travis-ci.org/75lb/command-line-args.svg?branch=master)](https://travis-ci.org/75lb/command-line-args)
@@ -5,11 +12,6 @@
 [![Dependency Status](https://david-dm.org/75lb/command-line-args.svg)](https://david-dm.org/75lb/command-line-args)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
 [![Join the chat at https://gitter.im/75lb/command-line-args](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/75lb/command-line-args?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-
-This fork was created to make a minor change in original library to allow unknown options by ignoring them. Now it has been added in the original repository under the reported issue (https://github.com/75lb/command-line-args/issues/38#issuecomment-275878463).
-
-This repo is kept for records until I make the required changes in code using this personal fork.
 
 
 
