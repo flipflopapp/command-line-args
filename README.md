@@ -7,7 +7,10 @@
 [![Join the chat at https://gitter.im/75lb/command-line-args](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/75lb/command-line-args?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
-This fork was created to make a minor change in original library to allow unknown options by ignoring them.
+This fork was created to make a minor change in original library to allow unknown options by ignoring them. Now it has been added in the original repository under the reported issue (https://github.com/75lb/command-line-args/issues/38#issuecomment-275878463).
+
+This repo is kept for records until I make the required changes in code using this personal fork.
+
 
 
 # command-line-args
